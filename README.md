@@ -16,7 +16,7 @@ __*more on this soon*__
 
 
 
-##### Work of : [thatdanish](https://github.com/thatdanish)
+#### Work of : [@thatdanish](https://github.com/thatdanish)
 *An open source project*  
 *This space will be updated regularly with more details about the project soon*
 
