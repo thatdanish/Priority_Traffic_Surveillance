@@ -14,7 +14,7 @@ There are numerous works by various people already on this issue, but the soluti
 __*more on this soon*__
 
 
-
+![vid](https://github.com/thatdanish/Priority_Traffic_Surveillance/blob/master/specimens/giphy.gif)
 
 #### Work of : [@thatdanish](https://github.com/thatdanish)
 *An open source project*  
