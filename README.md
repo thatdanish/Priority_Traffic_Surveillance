@@ -17,7 +17,7 @@ There are numerous works by various people already on this issue, but the soluti
 
 
 #### About the project:
-- OpenCv is used for feature exraction with a keras model to predict upon that.(Reason for its slow speed)  
+- **OpenCV** is used for feature exraction with a keras model to predict upon that.(Reason for its slow speed)  
 - **OpenCv**: Haar cascade is used for detection purposes  
 - **Deep Learning Model:** Made on keras with tensorflow in backend  
   - **_Mode Architecture_:** A Functional API Model 
