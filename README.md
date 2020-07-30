@@ -41,7 +41,7 @@ There are numerous works by various people already on this issue, but the soluti
   - Git (optional)  
   
  - **Mode Deployment:**  
-  - *CURRENTLY WORKING*  
+    - *CURRENTLY WORKING*  
   
 #### Work of : [@thatdanish](https://github.com/thatdanish)
 *An open source project*  
