@@ -11,10 +11,38 @@ The case is no different for the police department also, moreover these statisti
 
 #### Solution : 
 There are numerous works by various people already on this issue, but the solutions like constructing separate roads/lanes for emergency vehicles or reducing the distance between their stationed area and place of response isn't as practical or possible in some cases as it sounds. So if there could be a way that these emergency vehicles could be prioritized, when on road could get a real decrease in their response time but the first step in doing so, is to recognize them among all other vehicles on busy road during rush hours, which is what this project is aimed at.  
-__*more on this soon*__
+
 
 ![vid](https://github.com/thatdanish/Priority_Traffic_Surveillance/blob/master/specimens/giphy.gif)
 
+
+#### About the project:
+- OpenCv is used for feature exraction with a keras model to predict upon that.(Reason for its slow speed)  
+- **OpenCv**: Haar cascade is used for detection purposes  
+- **Deep Learning Model:** Made on keras with tensorflow in backend  
+  - **_Mode Architecture_:** A Functional API Model 
+  - Transfer Learning without top (VGG16 Model)  
+  - Dense Layer(s) --4  
+  - Droplayer(s) --2    
+  - BatchNormalization Layer(s) --2  
+  - Optimizer: Adma (default)  
+  
+- **Requirements:**  
+  - Tensorflow  
+  - Keras  
+  - Numpy  
+  - Pandas  
+  - Scikit Learn  
+  - OpenCv  
+  - Seaborn  
+  - Matplotlib  
+  - Jupyter Server  
+  - Conda (optional)  
+  - Git (optional)  
+  
+ - **Mode Deployment:**  
+  -*CURRENTLY WORKING*  
+  
 #### Work of : [@thatdanish](https://github.com/thatdanish)
 *An open source project*  
 *This space will be updated regularly with more details about the project soon*
