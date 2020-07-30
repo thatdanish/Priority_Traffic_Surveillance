@@ -10,10 +10,10 @@ showed the same result during the tests, which were conducted from the Secretari
 The case is no different for the police department also, moreover these statistics and studies are from India, but the problem with the emergency services is more or less the same across the globe.
 
 #### Solution : 
-There are numerous works by various people already on this issue, but the solutions like constructing separate roads/lanes for emergency vehicles or reducing the distance between their stationed area and place of response isn't as practical or possible in some cases as it sounds. So if there could be a way that these emergency vehicles could be prioritized, when on road could get a real decrease in their response time, but the first step in doing so it to recognize them among all other vehicles on busy road during rush hours, which is what this project is aimed at.  
+There are numerous works by various people already on this issue, but the solutions like constructing separate roads/lanes for emergency vehicles or reducing the distance between their stationed area and place of response isn't as practical or possible in some cases as it sounds. So if there could be a way that these emergency vehicles could be prioritized, when on road could get a real decrease in their response time but the first step in doing so, is to recognize them among all other vehicles on busy road during rush hours, which is what this project is aimed at.  
 __*more on this soon*__
 
-
+![vid](https://github.com/thatdanish/Priority_Traffic_Surveillance/blob/master/specimens/giphy.gif)
 
 
 #### Work of : [@thatdanish](https://github.com/thatdanish)
