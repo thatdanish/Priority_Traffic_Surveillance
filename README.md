@@ -41,8 +41,9 @@ There are numerous works by various people already on this issue, but the soluti
   - Git (optional)  
   
  - **Mode Deployment:**  
-    - *CURRENTLY WORKING*  
-  
+    - Model Deployed using REST API via flask (main.py)
+    - preprocessing for deployement (precessing.py)
+    - post request (request.py)  
 #### Work of : [@thatdanish](https://github.com/thatdanish)
 *An open source project*  
 *This space will be updated regularly with more details about the project soon*
