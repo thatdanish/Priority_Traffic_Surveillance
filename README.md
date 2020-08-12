@@ -25,7 +25,7 @@ There are numerous works by various people already on this issue, but the soluti
   - Dense Layer(s) --4  
   - Droplayer(s) --2    
   - BatchNormalization Layer(s) --2  
-  - Optimizer: Adma (default)  
+  - Optimizer: Adam (default)  
   
 - **Requirements:**  
   - Tensorflow  
